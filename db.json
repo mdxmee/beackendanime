@@ -1,0 +1,49 @@
+{
+  "anime": [
+    {
+      "title": "Повседневная жизнь бессмертного короля",
+      "Type": "ONA",
+      "Genre": "Демоны, Комедия, Повседневность, Приключения, Фэнтези, Школа",
+      "Studio": "Haoliners Animation League",
+      "Main characters": "Жун Сунь Лин Ван",
+      "description": "Ванлин - исключительный талант, который не перестает совершенствоваться. Еще в детстве он совершенно случайно проявил невиданную силу, когда на землю напал демон пятого ранга, к счастью тогда вся слава досталась одному из Отряда Божественных Умений – Джуои.",
+      "imageURL": "https://avatars.mds.yandex.net/get-ott/212840/2a00000178ab260ba71f4cfa6440dc76ebe5/678x380",
+      "id": "0"
+    },
+    {
+      "title": "Наруто",
+      "Type": "ТВ Сериал",
+      "Genre": "Боевые искусства, Комедия, Приключения, Сёнэн, Супер сила, Экшен",
+      "Studio": "Studio Pierrot",
+      "Main characters": "Сакура Харуно Какаши Хатакэ Саскэ Учиха Наруто Узумаки ",
+      "description": "«Наруто» — сёнэн-манга Масаси Кисимото, рассказывающая о жизни шумного и непоседливого ниндзя-подростка Наруто Удзумаки, мечтающего достичь всеобщего признания и стать Хокагэ — главой своего селения и сильнейшим ниндзя.",
+      "imageURL": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/naruto-episodes-header.png?resize=1200,630",
+      "id": "1"
+    },
+    {
+      "title": "Ванпанчмен",
+      "Type": "ТВ Сериал",
+      "Genre": "Комедия, Пародия, Сверхъестественное, Супер сила, Сэйнэн, Фантастика, Экшен",
+      "Studio": "Madhouse Studios",
+      "Main characters": "Genos Saitama",
+      "description": "One Punch-Man — японский веб-комикс, созданный мангакой под псевдонимом ONE, который публикуется в свободном доступе в интернете с 2009 года. В 2012 году был начат выпуск работы в формате цифровой манги с иллюстрациями Юсукэ Мураты под руководством ONE.",
+      "imageURL": "https://m.media-amazon.com/images/M/MV5BMDAyYzY1YmQtNDI2OS00Y2Q1LTg4ZDktYWIwNjdkOTZkODAzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "id": "2"
+    },
+    {
+      "title": "B the Beginning",
+      "description": "ona",
+      "release-date": "lorem",
+      "imageURL": "https://m.media-amazon.com/images/M/MV5BMzY2ZTcxODctOTk1OC00YTRkLWI5NDMtZGY3NGUxMzE1YzZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "developer": "bbxstudio",
+      "id": "ATZnCNF"
+    }
+  ],
+  "Users": [
+    {
+      "Name": "",
+      "Email": "",
+      "Nik": ""
+    }
+  ]
+}
